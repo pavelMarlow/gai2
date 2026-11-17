@@ -4,5 +4,5 @@ compatibility_date = "2024-01-01"
 
 [vars]
 # Значения можно задать тут или через Secrets в панели Cloudflare
-WEBAPP_URL = "https://your-pages-app.pages.dev"
-ADMIN_ID = "123456789" # Ваш Telegram Chat ID
+WEBAPP_URL = "https://gai2.iglobalelite08.workers.dev/"
+ADMIN_ID = "5932180739" # Ваш Telegram Chat ID
